@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\Semaphore02\Semaphore02\bin\Debug\Semaphore02.exe.config
+C:\Users\DELL\source\repos\Semaphore02\Semaphore02\bin\Debug\Semaphore02.exe
+C:\Users\DELL\source\repos\Semaphore02\Semaphore02\bin\Debug\Semaphore02.pdb
+C:\Users\DELL\source\repos\Semaphore02\Semaphore02\obj\Debug\Semaphore02.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Semaphore02\Semaphore02\obj\Debug\Semaphore02.Form1.resources
+C:\Users\DELL\source\repos\Semaphore02\Semaphore02\obj\Debug\Semaphore02.Properties.Resources.resources
+C:\Users\DELL\source\repos\Semaphore02\Semaphore02\obj\Debug\Semaphore02.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Semaphore02\Semaphore02\obj\Debug\Semaphore02.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Semaphore02\Semaphore02\obj\Debug\Semaphore02.exe
+C:\Users\DELL\source\repos\Semaphore02\Semaphore02\obj\Debug\Semaphore02.pdb
+C:\Users\DELL\source\repos\Semaphore02\Semaphore02\obj\Debug\Semaphore02.Form2.resources
